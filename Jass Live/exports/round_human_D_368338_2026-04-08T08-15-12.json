@@ -1,0 +1,191 @@
+{
+  "match_id": "5116-368338",
+  "players": [
+    {
+      "name": "abc3",
+      "uid": 188120,
+      "cid": 7029,
+      "pic": "884907.jpg",
+      "pos": 0,
+      "wonTricks": 2,
+      "tb": 30,
+      "timer": true,
+      "tCurr": {
+        "state": "red",
+        "tc": 20
+      }
+    },
+    {
+      "name": "General00",
+      "uid": 61290,
+      "cid": 6913,
+      "pic": "903075.jpg",
+      "pos": 1,
+      "card": "C9",
+      "tb": 30
+    },
+    {
+      "name": "Ririn2",
+      "uid": 18127,
+      "cid": 4861,
+      "pic": "19303.jpg",
+      "pos": 2,
+      "card": "C7",
+      "wonTricks": 3,
+      "tb": 30
+    },
+    {
+      "name": "Sili13",
+      "uid": 49196,
+      "cid": 6555,
+      "pic": "1.jpg",
+      "pos": 3,
+      "wonTricks": 1,
+      "tb": 30
+    }
+  ],
+  "rounds": [
+    {
+      "timestamp": "2026-04-08T08:15:12.013Z",
+      "match_id": "5116-368338",
+      "trump": "D",
+      "my_pos": 0,
+      "my_hand": [
+        "DQ",
+        "H8",
+        "H10"
+      ],
+      "tricks": [
+        {
+          "trick_number": 0,
+          "cards": [
+            {
+              "player": 0,
+              "card": "DQ"
+            },
+            {
+              "player": 3,
+              "card": "CJ"
+            }
+          ],
+          "winner": 0,
+          "points": 5
+        },
+        {
+          "trick_number": 1,
+          "cards": [
+            {
+              "player": 0,
+              "card": "H8"
+            },
+            {
+              "player": 3,
+              "card": "H9"
+            },
+            {
+              "player": 2,
+              "card": "H7"
+            },
+            {
+              "player": 1,
+              "card": "HJ"
+            }
+          ],
+          "winner": 1,
+          "points": 2
+        },
+        {
+          "trick_number": 2,
+          "cards": [
+            {
+              "player": 1,
+              "card": "S7"
+            },
+            {
+              "player": 0,
+              "card": "H10"
+            },
+            {
+              "player": 3,
+              "card": "C8"
+            },
+            {
+              "player": 2,
+              "card": "H6"
+            }
+          ],
+          "winner": 1,
+          "points": 10
+        }
+      ],
+      "results": {
+        "results": [
+          {
+            "pos": 0,
+            "callP": 74,
+            "points": 63,
+            "total": 22,
+            "rank": 4
+          },
+          {
+            "pos": 1,
+            "callP": 12,
+            "points": 17,
+            "total": 6,
+            "rank": 2
+          },
+          {
+            "pos": 2,
+            "callP": 52,
+            "points": 49,
+            "total": 6,
+            "rank": 2
+          },
+          {
+            "pos": 3,
+            "callP": 28,
+            "points": 28,
+            "total": 2,
+            "rank": 1
+          }
+        ],
+        "lastRound": 2,
+        "timer": 30,
+        "timers": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "scores": [
+        5,
+        12,
+        0,
+        0
+      ],
+      "players": [
+        {
+          "name": "abc3",
+          "uid": 188120,
+          "pos": 0
+        },
+        {
+          "name": "General00",
+          "uid": 61290,
+          "pos": 1
+        },
+        {
+          "name": "Ririn2",
+          "uid": 18127,
+          "pos": 2
+        },
+        {
+          "name": "Sili13",
+          "uid": 49196,
+          "pos": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"""Pygame GUI assistant."""

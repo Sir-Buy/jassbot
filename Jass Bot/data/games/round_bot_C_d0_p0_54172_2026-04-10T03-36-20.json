@@ -1,0 +1,323 @@
+{
+  "match_id": "T-SP-D-54172",
+  "players": [
+    {
+      "name": "Computer 1",
+      "uid": -1,
+      "cid": 0,
+      "pic": "-1.jpg",
+      "pos": 0
+    },
+    {
+      "name": "Computer 2",
+      "uid": -2,
+      "cid": 0,
+      "pic": "-2.jpg",
+      "pos": 1
+    },
+    {
+      "name": "Gast_42768",
+      "uid": 0,
+      "cid": 70827,
+      "pic": "1.jpg",
+      "pos": 2
+    },
+    {
+      "name": "Computer 3",
+      "uid": -3,
+      "cid": 0,
+      "pic": "-3.jpg",
+      "pos": 3
+    }
+  ],
+  "rounds": [
+    {
+      "timestamp": "2026-04-10T03:36:20.337Z",
+      "match_id": "T-SP-D-54172",
+      "trump": "C",
+      "my_pos": 2,
+      "my_hand": [
+        "H6",
+        "HQ",
+        "H10",
+        "HJ",
+        "SK",
+        "S7",
+        "C6",
+        "DK",
+        "D10"
+      ],
+      "tricks": [
+        {
+          "trick_number": 0,
+          "cards": [
+            {
+              "player": 1,
+              "card": "DA"
+            },
+            {
+              "player": 0,
+              "card": "SJ"
+            },
+            {
+              "player": 3,
+              "card": "DQ"
+            },
+            {
+              "player": 2,
+              "card": "DK"
+            }
+          ],
+          "winner": 1,
+          "points": 20
+        },
+        {
+          "trick_number": 1,
+          "cards": [
+            {
+              "player": 1,
+              "card": "S9"
+            },
+            {
+              "player": 0,
+              "card": "S8"
+            },
+            {
+              "player": 3,
+              "card": "SQ"
+            },
+            {
+              "player": 2,
+              "card": "S7"
+            }
+          ],
+          "winner": 3,
+          "points": 3
+        },
+        {
+          "trick_number": 2,
+          "cards": [
+            {
+              "player": 3,
+              "card": "D8"
+            },
+            {
+              "player": 2,
+              "card": "C6"
+            },
+            {
+              "player": 1,
+              "card": "D7"
+            },
+            {
+              "player": 0,
+              "card": "S6"
+            }
+          ],
+          "winner": 2,
+          "points": 0
+        },
+        {
+          "trick_number": 3,
+          "cards": [
+            {
+              "player": 2,
+              "card": "H6"
+            },
+            {
+              "player": 1,
+              "card": "H7"
+            },
+            {
+              "player": 0,
+              "card": "HA"
+            },
+            {
+              "player": 3,
+              "card": "C9"
+            }
+          ],
+          "winner": 3,
+          "points": 25
+        },
+        {
+          "trick_number": 4,
+          "cards": [
+            {
+              "player": 3,
+              "card": "D9"
+            },
+            {
+              "player": 2,
+              "card": "D10"
+            },
+            {
+              "player": 1,
+              "card": "D6"
+            },
+            {
+              "player": 0,
+              "card": "C8"
+            }
+          ],
+          "winner": 0,
+          "points": 10
+        },
+        {
+          "trick_number": 5,
+          "cards": [
+            {
+              "player": 0,
+              "card": "CK"
+            },
+            {
+              "player": 3,
+              "card": "CA"
+            },
+            {
+              "player": 2,
+              "card": "SK"
+            },
+            {
+              "player": 1,
+              "card": "CQ"
+            }
+          ],
+          "winner": 3,
+          "points": 22
+        },
+        {
+          "trick_number": 6,
+          "cards": [
+            {
+              "player": 3,
+              "card": "H8"
+            },
+            {
+              "player": 2,
+              "card": "HJ"
+            },
+            {
+              "player": 1,
+              "card": "H9"
+            },
+            {
+              "player": 0,
+              "card": "CJ"
+            }
+          ],
+          "winner": 0,
+          "points": 22
+        },
+        {
+          "trick_number": 7,
+          "cards": [
+            {
+              "player": 0,
+              "card": "S10"
+            },
+            {
+              "player": 3,
+              "card": "HK"
+            },
+            {
+              "player": 2,
+              "card": "H10"
+            },
+            {
+              "player": 1,
+              "card": "C7"
+            }
+          ],
+          "winner": 1,
+          "points": 24
+        },
+        {
+          "trick_number": 8,
+          "cards": [
+            {
+              "player": 1,
+              "card": "C10"
+            },
+            {
+              "player": 0,
+              "card": "SA"
+            },
+            {
+              "player": 3,
+              "card": "DJ"
+            },
+            {
+              "player": 2,
+              "card": "HQ"
+            }
+          ],
+          "winner": 1,
+          "points": 31
+        }
+      ],
+      "results": {
+        "results": [
+          {
+            "pos": 0,
+            "callP": 69,
+            "points": 32,
+            "total": 37,
+            "rank": 4
+          },
+          {
+            "pos": 1,
+            "callP": 40,
+            "points": 75,
+            "total": 35,
+            "rank": 3
+          },
+          {
+            "pos": 2,
+            "callP": 0,
+            "points": 0,
+            "total": 0,
+            "rank": 1
+          },
+          {
+            "pos": 3,
+            "callP": 50,
+            "points": 50,
+            "total": 0,
+            "rank": 1
+          }
+        ],
+        "lastRound": 1,
+        "timer": 0
+      },
+      "scores": [
+        32,
+        75,
+        0,
+        50
+      ],
+      "players": [
+        {
+          "name": "Computer 1",
+          "uid": -1,
+          "pos": 0
+        },
+        {
+          "name": "Computer 2",
+          "uid": -2,
+          "pos": 1
+        },
+        {
+          "name": "Gast_42768",
+          "uid": 0,
+          "pos": 2
+        },
+        {
+          "name": "Computer 3",
+          "uid": -3,
+          "pos": 3
+        }
+      ]
+    }
+  ]
+}

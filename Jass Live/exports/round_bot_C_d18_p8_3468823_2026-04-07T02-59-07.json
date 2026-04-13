@@ -1,0 +1,466 @@
+{
+  "match_id": "T-SP-D-3468823",
+  "timestamp": "2026-04-07T02:58:24.049Z",
+  "room": {
+    "id": -1,
+    "title": "?",
+    "stake": 0,
+    "prize_pool": 0
+  },
+  "players": [
+    {
+      "name": "Computer 1",
+      "uid": -1,
+      "pos": 0,
+      "pic": "-1.jpg"
+    },
+    {
+      "name": "Computer 2",
+      "uid": -2,
+      "pos": 1,
+      "pic": "-2.jpg"
+    },
+    {
+      "name": "Gast_213565",
+      "uid": null,
+      "pos": 2,
+      "pic": "1.jpg"
+    },
+    {
+      "name": "Computer 3",
+      "uid": -3,
+      "pos": 3,
+      "pic": "-3.jpg"
+    }
+  ],
+  "max_rounds": 4,
+  "rounds": [
+    {
+      "round_number": 1,
+      "trump": "C",
+      "trump_id": 3,
+      "trump_name": "Kreuz",
+      "dealer": 0,
+      "card_set": "DE",
+      "tricks": [
+        {
+          "trick_number": 1,
+          "leader": 3,
+          "cards": [
+            {
+              "player": 3,
+              "card": "D6",
+              "card_id": 9,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 2,
+              "card": "DQ",
+              "card_id": 15,
+              "points": 3,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "D8",
+              "card_id": 11,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 0,
+              "card": "DJ",
+              "card_id": 14,
+              "points": 2,
+              "is_trump": false
+            }
+          ],
+          "winner": 2,
+          "points": 5
+        },
+        {
+          "trick_number": 2,
+          "leader": 2,
+          "cards": [
+            {
+              "player": 2,
+              "card": "SK",
+              "card_id": 25,
+              "points": 4,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "HQ",
+              "card_id": 6,
+              "points": 3,
+              "is_trump": false
+            },
+            {
+              "player": 0,
+              "card": "SJ",
+              "card_id": 23,
+              "points": 2,
+              "is_trump": false
+            },
+            {
+              "player": 3,
+              "card": "SA",
+              "card_id": 26,
+              "points": 11,
+              "is_trump": false
+            }
+          ],
+          "winner": 3,
+          "points": 20
+        },
+        {
+          "trick_number": 3,
+          "leader": 3,
+          "cards": [
+            {
+              "player": 3,
+              "card": "H6",
+              "card_id": 0,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 2,
+              "card": "HA",
+              "card_id": 8,
+              "points": 11,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "H8",
+              "card_id": 2,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 0,
+              "card": "C10",
+              "card_id": 31,
+              "points": 10,
+              "is_trump": true
+            }
+          ],
+          "winner": 0,
+          "points": 21
+        },
+        {
+          "trick_number": 4,
+          "leader": 0,
+          "cards": [
+            {
+              "player": 0,
+              "card": "D9",
+              "card_id": 12,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 3,
+              "card": "S10",
+              "card_id": 22,
+              "points": 10,
+              "is_trump": false
+            },
+            {
+              "player": 2,
+              "card": "DK",
+              "card_id": 16,
+              "points": 4,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "C9",
+              "card_id": 30,
+              "points": 14,
+              "is_trump": true
+            }
+          ],
+          "winner": 1,
+          "points": 28
+        },
+        {
+          "trick_number": 5,
+          "leader": 1,
+          "cards": [
+            {
+              "player": 1,
+              "card": "D7",
+              "card_id": 10,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 0,
+              "card": "H10",
+              "card_id": 4,
+              "points": 10,
+              "is_trump": false
+            },
+            {
+              "player": 3,
+              "card": "CA",
+              "card_id": 35,
+              "points": 11,
+              "is_trump": true
+            },
+            {
+              "player": 2,
+              "card": "D10",
+              "card_id": 13,
+              "points": 10,
+              "is_trump": false
+            }
+          ],
+          "winner": 3,
+          "points": 31
+        },
+        {
+          "trick_number": 6,
+          "leader": 3,
+          "cards": [
+            {
+              "player": 3,
+              "card": "H7",
+              "card_id": 1,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 2,
+              "card": "HK",
+              "card_id": 7,
+              "points": 4,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "CJ",
+              "card_id": 32,
+              "points": 20,
+              "is_trump": true
+            },
+            {
+              "player": 0,
+              "card": "CK",
+              "card_id": 34,
+              "points": 4,
+              "is_trump": true
+            }
+          ],
+          "winner": 1,
+          "points": 28
+        },
+        {
+          "trick_number": 7,
+          "leader": 1,
+          "cards": [
+            {
+              "player": 1,
+              "card": "C6",
+              "card_id": 27,
+              "points": 0,
+              "is_trump": true
+            },
+            {
+              "player": 0,
+              "card": "C7",
+              "card_id": 28,
+              "points": 0,
+              "is_trump": true
+            },
+            {
+              "player": 3,
+              "card": "SQ",
+              "card_id": 24,
+              "points": 3,
+              "is_trump": false
+            },
+            {
+              "player": 2,
+              "card": "C8",
+              "card_id": 29,
+              "points": 0,
+              "is_trump": true
+            }
+          ],
+          "winner": 2,
+          "points": 3
+        },
+        {
+          "trick_number": 8,
+          "leader": 2,
+          "cards": [
+            {
+              "player": 2,
+              "card": "H9",
+              "card_id": 3,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "DA",
+              "card_id": 17,
+              "points": 11,
+              "is_trump": false
+            },
+            {
+              "player": 0,
+              "card": "S7",
+              "card_id": 19,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 3,
+              "card": "HJ",
+              "card_id": 5,
+              "points": 2,
+              "is_trump": false
+            }
+          ],
+          "winner": 3,
+          "points": 13
+        },
+        {
+          "trick_number": 9,
+          "leader": 3,
+          "cards": [
+            {
+              "player": 3,
+              "card": "S8",
+              "card_id": 20,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 2,
+              "card": "S9",
+              "card_id": 21,
+              "points": 0,
+              "is_trump": false
+            },
+            {
+              "player": 1,
+              "card": "CQ",
+              "card_id": 33,
+              "points": 3,
+              "is_trump": true
+            },
+            {
+              "player": 0,
+              "card": "S6",
+              "card_id": 18,
+              "points": 0,
+              "is_trump": false
+            }
+          ],
+          "winner": 1,
+          "points": 3
+        }
+      ],
+      "declarations": {
+        "0": 23,
+        "1": 86,
+        "2": 26,
+        "3": 32
+      },
+      "results": {
+        "results": [
+          {
+            "pos": 0,
+            "callP": 23,
+            "points": 21,
+            "total": 2,
+            "rank": 1
+          },
+          {
+            "pos": 1,
+            "callP": 86,
+            "points": 64,
+            "total": 22,
+            "rank": 3
+          },
+          {
+            "pos": 2,
+            "callP": 26,
+            "points": 8,
+            "total": 18,
+            "rank": 2
+          },
+          {
+            "pos": 3,
+            "callP": 32,
+            "points": 64,
+            "total": 32,
+            "rank": 4
+          }
+        ],
+        "lastRound": 1,
+        "timer": 0
+      },
+      "player_points": {
+        "0": 21,
+        "1": 64,
+        "2": 8,
+        "3": 64
+      },
+      "total_points": 157,
+      "joined_at_trick": 1,
+      "my_hand": [
+        "S9",
+        "H9",
+        "HA",
+        "HK",
+        "D10",
+        "C8",
+        "SK",
+        "DQ",
+        "DK"
+      ],
+      "my_hand_ids": [
+        21,
+        3,
+        8,
+        7,
+        13,
+        29,
+        25,
+        15,
+        16
+      ]
+    }
+  ],
+  "final_standings": {
+    "0": {
+      "total_deviation": 2,
+      "rounds_played": 1,
+      "last_rank": 1
+    },
+    "1": {
+      "total_deviation": 22,
+      "rounds_played": 1,
+      "last_rank": 3
+    },
+    "2": {
+      "total_deviation": 18,
+      "rounds_played": 1,
+      "last_rank": 2
+    },
+    "3": {
+      "total_deviation": 32,
+      "rounds_played": 1,
+      "last_rank": 4
+    }
+  },
+  "complete": false
+}

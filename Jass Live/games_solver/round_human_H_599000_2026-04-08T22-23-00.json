@@ -1,0 +1,925 @@
+{
+  "match_id": "5112-599000",
+  "players": [
+    {
+      "name": "Studi1967",
+      "uid": 187222,
+      "cid": 34859,
+      "pic": "1.jpg",
+      "pos": 0,
+      "tb": 30,
+      "timer": true
+    },
+    {
+      "name": "abc3",
+      "uid": 188120,
+      "cid": 34951,
+      "pic": "884907.jpg",
+      "pos": 1,
+      "tb": 30,
+      "timer": true
+    },
+    {
+      "name": "Weggis",
+      "uid": 58726,
+      "cid": 34986,
+      "pic": "1.jpg",
+      "pos": 2,
+      "tb": 17,
+      "timer": true
+    },
+    {
+      "name": "Simon_L3",
+      "uid": 6982,
+      "cid": 35000,
+      "pic": "384860.jpg",
+      "pos": 3,
+      "tb": 30,
+      "timer": true
+    }
+  ],
+  "rounds": [
+    {
+      "timestamp": "2026-04-08T22:18:15.317Z",
+      "match_id": "5112-599000",
+      "trump": "D",
+      "my_pos": 1,
+      "my_hand": [
+        "D10",
+        "DQ",
+        "SQ",
+        "D9",
+        "SK",
+        "H6",
+        "CQ",
+        "SJ",
+        "HA"
+      ],
+      "tricks": [
+        {
+          "trick_number": 0,
+          "cards": [
+            {
+              "player": 0,
+              "card": "CK"
+            },
+            {
+              "player": 3,
+              "card": "C9"
+            },
+            {
+              "player": 2,
+              "card": "CJ"
+            },
+            {
+              "player": 1,
+              "card": "DQ"
+            }
+          ],
+          "winner": 1,
+          "points": 9
+        },
+        {
+          "trick_number": 1,
+          "cards": [
+            {
+              "player": 1,
+              "card": "SQ"
+            },
+            {
+              "player": 0,
+              "card": "C10"
+            },
+            {
+              "player": 3,
+              "card": "S8"
+            },
+            {
+              "player": 2,
+              "card": "S10"
+            }
+          ],
+          "winner": 1,
+          "points": 23
+        },
+        {
+          "trick_number": 2,
+          "cards": [
+            {
+              "player": 1,
+              "card": "CQ"
+            },
+            {
+              "player": 0,
+              "card": "CA"
+            },
+            {
+              "player": 3,
+              "card": "C8"
+            },
+            {
+              "player": 2,
+              "card": "DJ"
+            }
+          ],
+          "winner": 2,
+          "points": 34
+        },
+        {
+          "trick_number": 3,
+          "cards": [
+            {
+              "player": 2,
+              "card": "C7"
+            },
+            {
+              "player": 1,
+              "card": "HA"
+            },
+            {
+              "player": 0,
+              "card": "C6"
+            },
+            {
+              "player": 3,
+              "card": "H10"
+            }
+          ],
+          "winner": 2,
+          "points": 21
+        },
+        {
+          "trick_number": 4,
+          "cards": [
+            {
+              "player": 2,
+              "card": "D7"
+            },
+            {
+              "player": 1,
+              "card": "D10"
+            },
+            {
+              "player": 0,
+              "card": "D6"
+            },
+            {
+              "player": 3,
+              "card": "D8"
+            }
+          ],
+          "winner": 1,
+          "points": 10
+        },
+        {
+          "trick_number": 5,
+          "cards": [
+            {
+              "player": 1,
+              "card": "H6"
+            },
+            {
+              "player": 0,
+              "card": "HQ"
+            },
+            {
+              "player": 3,
+              "card": "HJ"
+            },
+            {
+              "player": 2,
+              "card": "HK"
+            }
+          ],
+          "winner": 2,
+          "points": 9
+        },
+        {
+          "trick_number": 6,
+          "cards": [
+            {
+              "player": 2,
+              "card": "S7"
+            },
+            {
+              "player": 1,
+              "card": "SK"
+            },
+            {
+              "player": 0,
+              "card": "H7"
+            },
+            {
+              "player": 3,
+              "card": "S6"
+            }
+          ],
+          "winner": 1,
+          "points": 4
+        },
+        {
+          "trick_number": 7,
+          "cards": [
+            {
+              "player": 1,
+              "card": "SJ"
+            },
+            {
+              "player": 0,
+              "card": "DA"
+            },
+            {
+              "player": 3,
+              "card": "DK"
+            },
+            {
+              "player": 2,
+              "card": "S9"
+            }
+          ],
+          "winner": 0,
+          "points": 17
+        },
+        {
+          "trick_number": 8,
+          "cards": [
+            {
+              "player": 0,
+              "card": "H9"
+            },
+            {
+              "player": 3,
+              "card": "H8"
+            },
+            {
+              "player": 2,
+              "card": "SA"
+            },
+            {
+              "player": 1,
+              "card": "D9"
+            }
+          ],
+          "winner": 1,
+          "points": 30
+        }
+      ],
+      "results": {
+        "results": [
+          {
+            "pos": 0,
+            "callP": 27,
+            "points": 17,
+            "total": 10,
+            "rank": 2
+          },
+          {
+            "pos": 1,
+            "callP": 60,
+            "points": 76,
+            "total": 16,
+            "rank": 3
+          },
+          {
+            "pos": 2,
+            "callP": 37,
+            "points": 64,
+            "total": 27,
+            "rank": 4
+          },
+          {
+            "pos": 3,
+            "callP": 0,
+            "points": 0,
+            "total": 0,
+            "rank": 1
+          }
+        ],
+        "lastRound": 1,
+        "timer": 30,
+        "timers": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "scores": [
+        17,
+        76,
+        64,
+        0
+      ],
+      "players": [
+        {
+          "name": "Studi1967",
+          "uid": 187222,
+          "pos": 0
+        },
+        {
+          "name": "abc3",
+          "uid": 188120,
+          "pos": 1
+        },
+        {
+          "name": "Weggis",
+          "uid": 58726,
+          "pos": 2
+        },
+        {
+          "name": "Simon_L3",
+          "uid": 6982,
+          "pos": 3
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-08T22:20:36.643Z",
+      "match_id": "5112-599000",
+      "trump": "S",
+      "my_pos": 1,
+      "my_hand": [
+        "D9",
+        "SA",
+        "D8",
+        "H9",
+        "S8",
+        "S7",
+        "D10",
+        "HQ",
+        "C7"
+      ],
+      "tricks": [
+        {
+          "trick_number": 0,
+          "cards": [
+            {
+              "player": 3,
+              "card": "HK"
+            },
+            {
+              "player": 2,
+              "card": "HA"
+            },
+            {
+              "player": 1,
+              "card": "HQ"
+            },
+            {
+              "player": 0,
+              "card": "S10"
+            }
+          ],
+          "winner": 0,
+          "points": 28
+        },
+        {
+          "trick_number": 1,
+          "cards": [
+            {
+              "player": 0,
+              "card": "H6"
+            },
+            {
+              "player": 3,
+              "card": "HJ"
+            },
+            {
+              "player": 2,
+              "card": "C9"
+            },
+            {
+              "player": 1,
+              "card": "SA"
+            }
+          ],
+          "winner": 1,
+          "points": 13
+        },
+        {
+          "trick_number": 2,
+          "cards": [
+            {
+              "player": 1,
+              "card": "C7"
+            },
+            {
+              "player": 0,
+              "card": "CJ"
+            },
+            {
+              "player": 3,
+              "card": "CA"
+            },
+            {
+              "player": 2,
+              "card": "S6"
+            }
+          ],
+          "winner": 2,
+          "points": 13
+        },
+        {
+          "trick_number": 3,
+          "cards": [
+            {
+              "player": 2,
+              "card": "DK"
+            },
+            {
+              "player": 1,
+              "card": "D9"
+            },
+            {
+              "player": 0,
+              "card": "DQ"
+            },
+            {
+              "player": 3,
+              "card": "DA"
+            }
+          ],
+          "winner": 3,
+          "points": 18
+        },
+        {
+          "trick_number": 4,
+          "cards": [
+            {
+              "player": 3,
+              "card": "DJ"
+            },
+            {
+              "player": 2,
+              "card": "D6"
+            },
+            {
+              "player": 1,
+              "card": "D10"
+            },
+            {
+              "player": 0,
+              "card": "H10"
+            }
+          ],
+          "winner": 3,
+          "points": 22
+        },
+        {
+          "trick_number": 5,
+          "cards": [
+            {
+              "player": 3,
+              "card": "D7"
+            },
+            {
+              "player": 2,
+              "card": "CK"
+            },
+            {
+              "player": 1,
+              "card": "D8"
+            },
+            {
+              "player": 0,
+              "card": "S9"
+            }
+          ],
+          "winner": 0,
+          "points": 18
+        },
+        {
+          "trick_number": 6,
+          "cards": [
+            {
+              "player": 0,
+              "card": "H7"
+            },
+            {
+              "player": 3,
+              "card": "C10"
+            },
+            {
+              "player": 2,
+              "card": "SJ"
+            },
+            {
+              "player": 1,
+              "card": "H9"
+            }
+          ],
+          "winner": 2,
+          "points": 30
+        },
+        {
+          "trick_number": 7,
+          "cards": [
+            {
+              "player": 2,
+              "card": "C8"
+            },
+            {
+              "player": 1,
+              "card": "S7"
+            },
+            {
+              "player": 0,
+              "card": "SQ"
+            },
+            {
+              "player": 3,
+              "card": "SK"
+            }
+          ],
+          "winner": 3,
+          "points": 7
+        },
+        {
+          "trick_number": 8,
+          "cards": [
+            {
+              "player": 3,
+              "card": "CQ"
+            },
+            {
+              "player": 2,
+              "card": "C6"
+            },
+            {
+              "player": 1,
+              "card": "S8"
+            },
+            {
+              "player": 0,
+              "card": "H8"
+            }
+          ],
+          "winner": 1,
+          "points": 8
+        }
+      ],
+      "results": {
+        "results": [
+          {
+            "pos": 0,
+            "callP": 59,
+            "points": 46,
+            "total": 23,
+            "rank": 3
+          },
+          {
+            "pos": 1,
+            "callP": 15,
+            "points": 21,
+            "total": 22,
+            "rank": 2
+          },
+          {
+            "pos": 2,
+            "callP": 51,
+            "points": 43,
+            "total": 35,
+            "rank": 4
+          },
+          {
+            "pos": 3,
+            "callP": 37,
+            "points": 47,
+            "total": 10,
+            "rank": 1
+          }
+        ],
+        "lastRound": 2,
+        "timer": 30,
+        "timers": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "scores": [
+        46,
+        21,
+        43,
+        47
+      ],
+      "players": [
+        {
+          "name": "Studi1967",
+          "uid": 187222,
+          "pos": 0
+        },
+        {
+          "name": "abc3",
+          "uid": 188120,
+          "pos": 1
+        },
+        {
+          "name": "Weggis",
+          "uid": 58726,
+          "pos": 2
+        },
+        {
+          "name": "Simon_L3",
+          "uid": 6982,
+          "pos": 3
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-04-08T22:22:59.458Z",
+      "match_id": "5112-599000",
+      "trump": "H",
+      "my_pos": 1,
+      "my_hand": [
+        "CK",
+        "S7",
+        "DK",
+        "C8",
+        "CJ",
+        "H7",
+        "SK",
+        "S9",
+        "HA"
+      ],
+      "tricks": [
+        {
+          "trick_number": 0,
+          "cards": [
+            {
+              "player": 2,
+              "card": "HK"
+            },
+            {
+              "player": 1,
+              "card": "H7"
+            },
+            {
+              "player": 0,
+              "card": "H8"
+            },
+            {
+              "player": 3,
+              "card": "HQ"
+            }
+          ],
+          "winner": 2,
+          "points": 7
+        },
+        {
+          "trick_number": 1,
+          "cards": [
+            {
+              "player": 2,
+              "card": "S10"
+            },
+            {
+              "player": 1,
+              "card": "S9"
+            },
+            {
+              "player": 0,
+              "card": "S8"
+            },
+            {
+              "player": 3,
+              "card": "H9"
+            }
+          ],
+          "winner": 3,
+          "points": 24
+        },
+        {
+          "trick_number": 2,
+          "cards": [
+            {
+              "player": 3,
+              "card": "SJ"
+            },
+            {
+              "player": 2,
+              "card": "SA"
+            },
+            {
+              "player": 1,
+              "card": "SK"
+            },
+            {
+              "player": 0,
+              "card": "SQ"
+            }
+          ],
+          "winner": 2,
+          "points": 20
+        },
+        {
+          "trick_number": 3,
+          "cards": [
+            {
+              "player": 2,
+              "card": "C7"
+            },
+            {
+              "player": 1,
+              "card": "C8"
+            },
+            {
+              "player": 0,
+              "card": "C10"
+            },
+            {
+              "player": 3,
+              "card": "C9"
+            }
+          ],
+          "winner": 0,
+          "points": 10
+        },
+        {
+          "trick_number": 4,
+          "cards": [
+            {
+              "player": 0,
+              "card": "S6"
+            },
+            {
+              "player": 3,
+              "card": "DJ"
+            },
+            {
+              "player": 2,
+              "card": "CQ"
+            },
+            {
+              "player": 1,
+              "card": "S7"
+            }
+          ],
+          "winner": 1,
+          "points": 5
+        },
+        {
+          "trick_number": 5,
+          "cards": [
+            {
+              "player": 1,
+              "card": "DK"
+            },
+            {
+              "player": 0,
+              "card": "D10"
+            },
+            {
+              "player": 3,
+              "card": "D8"
+            },
+            {
+              "player": 2,
+              "card": "D7"
+            }
+          ],
+          "winner": 1,
+          "points": 14
+        },
+        {
+          "trick_number": 6,
+          "cards": [
+            {
+              "player": 1,
+              "card": "CJ"
+            },
+            {
+              "player": 0,
+              "card": "CA"
+            },
+            {
+              "player": 3,
+              "card": "H10"
+            },
+            {
+              "player": 2,
+              "card": "C6"
+            }
+          ],
+          "winner": 3,
+          "points": 23
+        },
+        {
+          "trick_number": 7,
+          "cards": [
+            {
+              "player": 3,
+              "card": "HJ"
+            },
+            {
+              "player": 2,
+              "card": "DA"
+            },
+            {
+              "player": 1,
+              "card": "HA"
+            },
+            {
+              "player": 0,
+              "card": "DQ"
+            }
+          ],
+          "winner": 3,
+          "points": 45
+        },
+        {
+          "trick_number": 8,
+          "cards": [
+            {
+              "player": 3,
+              "card": "H6"
+            },
+            {
+              "player": 2,
+              "card": "D6"
+            },
+            {
+              "player": 1,
+              "card": "CK"
+            },
+            {
+              "player": 0,
+              "card": "D9"
+            }
+          ],
+          "winner": 3,
+          "points": 9
+        }
+      ],
+      "results": {
+        "results": [
+          {
+            "pos": 0,
+            "callP": 0,
+            "points": 10,
+            "total": 33,
+            "rank": 2
+          },
+          {
+            "pos": 1,
+            "callP": 0,
+            "points": 19,
+            "total": 41,
+            "rank": 3
+          },
+          {
+            "pos": 2,
+            "callP": 17,
+            "points": 27,
+            "total": 45,
+            "rank": 4
+          },
+          {
+            "pos": 3,
+            "callP": 91,
+            "points": 101,
+            "total": 20,
+            "rank": 1
+          }
+        ],
+        "lastRound": 3,
+        "timer": 30,
+        "timers": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "scores": [
+        10,
+        19,
+        27,
+        101
+      ],
+      "players": [
+        {
+          "name": "Studi1967",
+          "uid": 187222,
+          "pos": 0
+        },
+        {
+          "name": "abc3",
+          "uid": 188120,
+          "pos": 1
+        },
+        {
+          "name": "Weggis",
+          "uid": 58726,
+          "pos": 2
+        },
+        {
+          "name": "Simon_L3",
+          "uid": 6982,
+          "pos": 3
+        }
+      ]
+    }
+  ]
+}
